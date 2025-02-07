@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\Route\\EF Core\\EF2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18425C22-C3CD-49AD-9098-0B9727E27024}|EF2.csproj|d:\\.net\\route\\ef core\\ef2\\data\\migrations\\20250207145534_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18425C22-C3CD-49AD-9098-0B9727E27024}|EF2.csproj|solutionrelative:data\\migrations\\20250207145534_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18425C22-C3CD-49AD-9098-0B9727E27024}|EF2.csproj|d:\\.net\\route\\ef core\\ef2\\data\\migrations\\companydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18425C22-C3CD-49AD-9098-0B9727E27024}|EF2.csproj|solutionrelative:data\\migrations\\companydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18425C22-C3CD-49AD-9098-0B9727E27024}|EF2.csproj|d:\\.net\\route\\ef core\\ef2\\data\\migrations\\20250207153607_adddepartmenttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18425C22-C3CD-49AD-9098-0B9727E27024}|EF2.csproj|solutionrelative:data\\migrations\\20250207153607_adddepartmenttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18425C22-C3CD-49AD-9098-0B9727E27024}|EF2.csproj|d:\\.net\\route\\ef core\\ef2\\data\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18425C22-C3CD-49AD-9098-0B9727E27024}|EF2.csproj|solutionrelative:data\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18425C22-C3CD-49AD-9098-0B9727E27024}|EF2.csproj|d:\\.net\\route\\ef core\\ef2\\data\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18425C22-C3CD-49AD-9098-0B9727E27024}|EF2.csproj|solutionrelative:data\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18425C22-C3CD-49AD-9098-0B9727E27024}|EF2.csproj|d:\\.net\\route\\ef core\\ef2\\data\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18425C22-C3CD-49AD-9098-0B9727E27024}|EF2.csproj|solutionrelative:data\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18425C22-C3CD-49AD-9098-0B9727E27024}|EF2.csproj|d:\\.net\\route\\ef core\\ef2\\data\\configurations\\employeeconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18425C22-C3CD-49AD-9098-0B9727E27024}|EF2.csproj|solutionrelative:data\\configurations\\employeeconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18425C22-C3CD-49AD-9098-0B9727E27024}|EF2.csproj|d:\\.net\\route\\ef core\\ef2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18425C22-C3CD-49AD-9098-0B9727E27024}|EF2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompanyDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\.Net\\Route\\EF Core\\EF2\\Data\\Migrations\\CompanyDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\CompanyDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\.Net\\Route\\EF Core\\EF2\\Data\\Migrations\\CompanyDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Data\\Migrations\\CompanyDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T17:17:58.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250207145534_InitialCreate.cs",
+              "DocumentMoniker": "D:\\.Net\\Route\\EF Core\\EF2\\Data\\Migrations\\20250207145534_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250207145534_InitialCreate.cs",
+              "ToolTip": "D:\\.Net\\Route\\EF Core\\EF2\\Data\\Migrations\\20250207145534_InitialCreate.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250207145534_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T17:17:55.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250207153607_AddDepartmentTable.cs",
+              "DocumentMoniker": "D:\\.Net\\Route\\EF Core\\EF2\\Data\\Migrations\\20250207153607_AddDepartmentTable.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250207153607_AddDepartmentTable.cs",
+              "ToolTip": "D:\\.Net\\Route\\EF Core\\EF2\\Data\\Migrations\\20250207153607_AddDepartmentTable.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250207153607_AddDepartmentTable.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T15:36:07.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentConfiguration.cs",
+              "DocumentMoniker": "D:\\.Net\\Route\\EF Core\\EF2\\Data\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeDocumentMoniker": "Data\\Configurations\\DepartmentConfiguration.cs",
+              "ToolTip": "D:\\.Net\\Route\\EF Core\\EF2\\Data\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeToolTip": "Data\\Configurations\\DepartmentConfiguration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:33:18.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompanyDbContext.cs",
+              "DocumentMoniker": "D:\\.Net\\Route\\EF Core\\EF2\\Data\\CompanyDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\CompanyDbContext.cs",
+              "ToolTip": "D:\\.Net\\Route\\EF Core\\EF2\\Data\\CompanyDbContext.cs",
+              "RelativeToolTip": "Data\\CompanyDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T15:17:31.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\.Net\\Route\\EF Core\\EF2\\Data\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Employee.cs",
+              "ToolTip": "D:\\.Net\\Route\\EF Core\\EF2\\Data\\Models\\Employee.cs*",
+              "RelativeToolTip": "Data\\Models\\Employee.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:15:52.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeConfigurations.cs",
+              "DocumentMoniker": "D:\\.Net\\Route\\EF Core\\EF2\\Data\\Configurations\\EmployeeConfigurations.cs",
+              "RelativeDocumentMoniker": "Data\\Configurations\\EmployeeConfigurations.cs",
+              "ToolTip": "D:\\.Net\\Route\\EF Core\\EF2\\Data\\Configurations\\EmployeeConfigurations.cs",
+              "RelativeToolTip": "Data\\Configurations\\EmployeeConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:26:08.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net\\Route\\EF Core\\EF2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\.Net\\Route\\EF Core\\EF2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T13:57:10.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
