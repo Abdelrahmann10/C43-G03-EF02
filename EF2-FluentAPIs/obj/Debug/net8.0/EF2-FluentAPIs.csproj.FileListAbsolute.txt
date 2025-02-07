@@ -1,0 +1,11 @@
+D:\.Net\Route\EF Core\EF2\EF2-FluentAPIs\bin\Debug\net8.0\EF2-FluentAPIs.deps.json
+D:\.Net\Route\EF Core\EF2\EF2-FluentAPIs\bin\Debug\net8.0\EF2-FluentAPIs.dll
+D:\.Net\Route\EF Core\EF2\EF2-FluentAPIs\bin\Debug\net8.0\EF2-FluentAPIs.pdb
+D:\.Net\Route\EF Core\EF2\EF2-FluentAPIs\obj\Debug\net8.0\EF2-FluentAPIs.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Route\EF Core\EF2\EF2-FluentAPIs\obj\Debug\net8.0\EF2-FluentAPIs.AssemblyInfoInputs.cache
+D:\.Net\Route\EF Core\EF2\EF2-FluentAPIs\obj\Debug\net8.0\EF2-FluentAPIs.AssemblyInfo.cs
+D:\.Net\Route\EF Core\EF2\EF2-FluentAPIs\obj\Debug\net8.0\EF2-FluentAPIs.csproj.CoreCompileInputs.cache
+D:\.Net\Route\EF Core\EF2\EF2-FluentAPIs\obj\Debug\net8.0\EF2-FluentAPIs.dll
+D:\.Net\Route\EF Core\EF2\EF2-FluentAPIs\obj\Debug\net8.0\refint\EF2-FluentAPIs.dll
+D:\.Net\Route\EF Core\EF2\EF2-FluentAPIs\obj\Debug\net8.0\EF2-FluentAPIs.pdb
+D:\.Net\Route\EF Core\EF2\EF2-FluentAPIs\obj\Debug\net8.0\ref\EF2-FluentAPIs.dll
